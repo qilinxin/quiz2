@@ -1,4 +1,4 @@
-cd git-practice-01
+cd git-practice-02
 git checkout branch3
 git checkout branch3
 git merge branch3
